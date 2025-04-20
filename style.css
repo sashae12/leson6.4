@@ -3,6 +3,7 @@ body {
     background-color: black;
     margin: 0px;
     padding: 0px;
+    width: 1100;
 }
 
 header {
@@ -24,9 +25,9 @@ header {
 nav {
     border-top: 5px solid white;
     border-bottom: 5px solid white;
-    padding: 25px 100px 25px 95px;
+    padding: 25px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .nav-link {
